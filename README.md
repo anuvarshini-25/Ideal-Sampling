@@ -1,6 +1,6 @@
-# Ideal, Natural, & Flat-top -Sampling
+# IdealSampling
 # Aim
-Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
+Write a simple Python program for the construction and reconstruction of ideal sampling.
 # Tools required
 # Program
  import numpy as np
@@ -44,5 +44,6 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 <img width="1920" height="1020" alt="Screenshot 2025-08-30 152733" src="https://github.com/user-attachments/assets/3d8911eb-5e43-45bc-b748-af0d93417a32" />
 <img width="1920" height="1020" alt="Screenshot 2025-08-30 152742" src="https://github.com/user-attachments/assets/1a44fa73-dbac-4cc8-87c5-9a002c50c5ac" />
 <img width="1920" height="1020" alt="Screenshot 2025-08-30 152746" src="https://github.com/user-attachments/assets/0b47e56e-5549-443d-b6f1-ff9943e1d412" />
-```
-# Hardware experiment output waveform.
+Results
+Hence Wrote a simple Python program for the construction and reconstruction of idealsampling.
+
